@@ -1,0 +1,10 @@
+beautifulsoup4==4.12.2
+requests==2.31.0
+langchain
+langchain_huggingface
+langchain_community
+transformers>=4.39.0
+torch>=2.4.0
+flask
+faiss-cpu==1.7.4
+
